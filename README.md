@@ -1,16 +1,20 @@
-### Hi there 👋
+# Abdullah Lzhan
+[![Twitter Badge](https://img.shields.io/badge/-@mohammedlouzon-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mohammedlouzon)](https://twitter.com/mohammedlouzon) [![Linkedin Badge](https://img.shields.io/badge/-mohammedlouzon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammedlouzon/)](https://www.linkedin.com/in/mohammedlouzon/) [![Medium Badge](https://img.shields.io/badge/-@mohammedlouzon-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mohammedlouzon/)](https://medium.com/@mohammedlouzon/)
+[![Gmail Badge](https://img.shields.io/badge/-mohammedlouzon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohammedlouzon@gmail.com)](mailto:mohammedlouzon@gmail.com)
 
-<!--
-**mohammedlouzon/mohammedlouzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, 
+I'm Abdullah Lzhan, I'm a software engineer 👨‍💻 who is passionate about mobile technologies and open source. I'm also a self proclaimed graphic designer and internet surfer 
+🏄‍♂️. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Android Apps
+- 🌱 I’m currently learning JavaScript
+- 💬 Ask me about: tech, memes, anime
+- 😄 Pronouns: he/him
+-  ⚡ Languages: php , html , css , js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+> Abdullah
+
+
+---
+⭐️ From [Abdullah](https://github.com/Abdullah)
