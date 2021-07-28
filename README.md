@@ -1,20 +1,46 @@
-# Mohammed louzon
-[![Twitter Badge](https://img.shields.io/badge/-@Mohammedlouzon-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mohammedlouzon)](https://twitter.com/mohammedlouzon) [![Linkedin Badge](https://img.shields.io/badge/-mohammedlouzon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammedlouzon/)](https://www.linkedin.com/in/mohammedlouzon/) [![Medium Badge](https://img.shields.io/badge/-@mohammedlouzon-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mohammedlouzon/)](https://medium.com/@mohammedlouzon/)
-[![Gmail Badge](https://img.shields.io/badge/-mohammedlouzon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohammedlouzon@gmail.com)](mailto:mohammedlouzon@gmail.com)
-
-## Hi 👋, 
-I'm Mohammed louzon , I'm a marketing officer  👨‍💻 who is passionate about mobile technologies and open source. I'm also a self proclaimed graphic designer and internet surfer 
-🏄‍♂️. 
-
-- 🔭 I’m currently working on Android Apps
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me about: tech, memes, anime
-- 😄 Pronouns: he/him
--  ⚡ Languages:html , css , js
+## Hi 👋, I'm [Mohammed louzon!](https://mohammedlouzon.github.io) 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="ankitwarhe" /> </p>
 
 
-> mohammed 
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
+ <a href="https://dev.to/ankitwarbhe">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ankit's Dev" width="26"/>
+</a>
+<a href="https://twitter.com/ankitwarbhe">
+  <img align="left" alt="Ankit Warbhe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ankit-warbhe/">
+  <img align="left" alt="Ankit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/ankit.warbhe/">
+  <img align="left" alt="Ankit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://devfolio.co/@ankitwarbhe/">
+  <img align="left" alt="Ankit's Devfolio" width="26px" src="https://pbs.twimg.com/profile_images/1212398116101472257/VVvZ_m4A_400x400.png"/>
+</a>
 
 
----
-⭐️ From [Mohammed](https://github.com/Mohammedlouzon)
+
+
+
+- :telescope: I'm currently studying Web devloper  💻;
+- :hourglass_flowing_sand: Learning ML and DL;
+- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
+- :man_technologist: B.Tech(Computer Science and Engineering), GHRCE; 
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
+- 📫 How to reach me: ankitwarbheofficial@gmail.com;
+- 📝[Resume](https://ankitwarbhe.github.io/cdn/about/Ankit-warbhe-cv.pdf) <br>
+
+![](https://img.shields.io/badge/Machine%20Learning-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Core%20Java-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Business%20English-%7C-yellowgreen) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Cloud%20Developer-%7C-blue)
+
+<br><br>
+<a href="https://github.com/mohammedlouzon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitwarbhe&theme=dark">
+</a>
+<a href="https://github.com/mohammedlouzon">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitwarbhe&show_icons=true&theme=dark&line_height=30" alt="Ankit's github stats"/>
+</a>
+
+⭐️ From [Mohammed louzon](https://github.com/mohammedlouzon)
+
