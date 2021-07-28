@@ -4,17 +4,17 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
- <a href="https://dev.to/ankitwarbhe">
+ <a href="https://dev.to/mohammedlouzon">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ankit's Dev" width="26"/>
 </a>
-<a href="https://twitter.com/ankitwarbhe">
+<a href="https://twitter.com/mohammedlouzon">
   <img align="left" alt="Ankit Warbhe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ankit-warbhe/">
+<a href="https://www.linkedin.com/in/mohammedlouzon/">
   <img align="left" alt="Ankit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/ankit.warbhe/">
-  <img align="left" alt="Ankit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/mohammedlouzon/">
+  <img align="left" alt="mohammedlouzon  Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://devfolio.co/@ankitwarbhe/">
   <img align="left" alt="Ankit's Devfolio" width="26px" src="https://pbs.twimg.com/profile_images/1212398116101472257/VVvZ_m4A_400x400.png"/>
@@ -36,10 +36,10 @@
 
 <br><br>
 <a href="https://github.com/mohammedlouzon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitwarbhe&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedlouzon&theme=dark">
 </a>
 <a href="https://github.com/mohammedlouzon">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitwarbhe&show_icons=true&theme=dark&line_height=30" alt="Ankit's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedlouzon&show_icons=true&theme=dark&line_height=30" alt="Ankit's github stats"/>
 </a>
 
 ⭐️ From [Mohammed louzon](https://github.com/mohammedlouzon)
